@@ -1,0 +1,35 @@
+{
+  "@odata.context": "$metadata#Projects",
+  "value": [
+    {
+      "createdAt": "2026-09-20T17:44:11.310Z",
+      "createdBy": "anonymous",
+      "modifiedAt": "2026-09-20T17:44:11.310Z",
+      "modifiedBy": "anonymous",
+      "empl_emp_id": 100,
+      "proj_code": "378c8c",
+      "proj_name": "snjfnj",
+      "team_size": 4
+    },
+    {
+      "createdAt": "2026-09-20T17:44:11.310Z",
+      "createdBy": "anonymous",
+      "modifiedAt": "2026-09-20T17:44:11.310Z",
+      "modifiedBy": "anonymous",
+      "empl_emp_id": 234,
+      "proj_code": "rthuij4",
+      "proj_name": "brhbdhsje",
+      "team_size": 21
+    },
+    {
+      "createdAt": "2026-09-20T17:44:11.310Z",
+      "createdBy": "anonymous",
+      "modifiedAt": "2026-09-20T17:44:11.310Z",
+      "modifiedBy": "anonymous",
+      "empl_emp_id": 432,
+      "proj_code": "uwhr4u",
+      "proj_name": "gbshwi",
+      "team_size": 12
+    }
+  ]
+}
